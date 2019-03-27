@@ -21,23 +21,23 @@ To fully benefit from the coverage included in this course, you will need:<br/>
 ●	Some basic knowledge of any modern programming language
 ### Technical Requirements
 This course has the following software requirements:<br/>
-SETUP AND INSTALLATION
-This will vary on a product-by-product basis, but should be a standard PI element for ILT products. This example is relatively basic.
+SETUP AND INSTALLATION<br/>
+This will vary on a product-by-product basis, but should be a standard PI element for ILT products. This example is relatively basic.<br/>
 
-Minimum Hardware Requirements
-For successful completion of this course, students will require the computer systems with at least the following: 
-OS: Microsoft Windows 7 and up
-Processor: re i3-3210 3.2 GHz or equivalent
-Memory: 2 GB
-Recommended Hardware Requirements
-For an optimal experience with hands-on labs and other practical activities, I recommend the following configuration:
-OS: Microsoft Windows 7 and up
-Processor: Intel Core i5-4690 3.5GHz or equivalent
-Memory: 4 GB
-Software Requirements
-•	Browser: -
-•	(Recommended, but any Java IDE will suffice) Intellij IDEA
-•	JDK 11
+Minimum Hardware Requirements<br/>
+For successful completion of this course, students will require the computer systems with at least the following: <br/>
+OS: Microsoft Windows 7 and up<br/>
+Processor: re i3-3210 3.2 GHz or equivalent<br/>
+Memory: 2 GB<br/>
+Recommended Hardware Requirements<br/>
+For an optimal experience with hands-on labs and other practical activities, I recommend the following configuration:<br/>
+OS: Microsoft Windows 7 and up<br/>
+Processor: Intel Core i5-4690 3.5GHz or equivalent<br/>
+Memory: 4 GB<br/>
+Software Requirements<br/>
+•	Browser: -<br/>
+•	(Recommended, but any Java IDE will suffice) Intellij IDEA<br/>
+•	JDK 11<br/>
 
 
 ## Related Products
